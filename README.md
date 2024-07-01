@@ -1,6 +1,4 @@
-# Red-Wine-Quality
-
-TASK 3: Red Wine Quality
+# Red Wine Quality
 
 DATASET: Wine Quality Database
 
